@@ -26,10 +26,10 @@ El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos relac
 **** Se espera que las personas a las que se les llame la atención al incumplir alguna de estas normas, cambien el comportamiento de forma inmediata.
 **** Si un miembro de la comunidad participa en una conducta inaceptable, y tras un llamado de atención no corrige su comportamiento, las consecuencias dependiendo el caso pueden ser de prohibición temporal o expulsión permanente del espacio de aprendizaje.
 
-*** Si usted es testigo de comportamiento inaceptable
+*** 6. Si usted es testigo de comportamiento inaceptable
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier inquietud, por favor comunícate con un lider de la comunidad lo antes posible, a través de los canales del Discord.
 
-*** Políticas de moderación
+*** 7. Políticas de moderación
 Estas son las políticas para mantener los estándares de conducta en nuestra comunidad en los canales de chat, meetups asociados, conferencias, grupos de estudio, y eventos virtuales:
 + Palabras que violen las normas de Código de Conducta, incluyendo comentarios odiosos, hirientes, opresivos,  o excluyentes, no están permitidos. (Se permite las "malas palabras", pero nunca enfocadas hacia otro usuario/asistente, y nunca de una manera despectiva.)
 + Comentarios que los líderes y moderadores encuentren inapropiados tampoco están permitidos, así aparezcan en el código de conducta o no.
@@ -40,7 +40,7 @@ Estas son las políticas para mantener los estándares de conducta en nuestra co
 + Si un lider o moderador expulsa a alguien y usted cree que fue una expulsión sin causa, contacte a ese miembro, o a un lider diferente en privado. Quejas sobre expulsiones en medios abiertos, sociales, u otros canales no son permitidas y conllevaran a más expulsiones.
 + Los líderes y moderadores se rigen por un nivel más alto que otros miembros de la comunidad. Si un organizador crea una situación inadecuada, este será juzgado con un estándar más alto.
 
-*** Roles
+*** 8. Roles
 Los líderes en el Discord son aquellos que tengan rol @Admin o @lideres. A ellos pueden dirigir inquietudes, sugerencias y reclamos.
   
 En el Club de Algorítmia nos esforzamos por ir un paso más allá y cuidar el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate también de ser la mejor persona posible. En particular, evite tocar temas ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a menudo conduce a peleas innecesarias, sentimientos heridos, y a daños en la confianza; peor aún, puede conducir a que personas se alejen de la comunidad en su totalidad.
@@ -50,7 +50,7 @@ De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo
 Todo el mundo busca harmonía en este espacio que está hecho para el aprendizaje y la generación de conocimiento. Todos y todas estamos aquí, ante todo, porque queremos hablar de los temas que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre.
 
 
-*** Licencia y atribución
+*** 9. Licencia y atribución
 **** Este código de conducta se distribuye bajo una licencia [[http://creativecommons.org/licenses/by-sa/3.0/][Creative Commons – ShareAlike (BY-SA)]]
 **** Adaptado del [[https://github.com/colombia-dev/codigo-de-conducta][Código de Conducta de Colombia-Dev]]
 
