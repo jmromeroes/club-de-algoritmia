@@ -1,24 +1,24 @@
 
 # Table of Contents
 
-1.  [Codigo de Coducta](#org2f8d627)
-        1.  [1. Propósito](#org37b5e4d)
-        2.  [2. Civismo en el Club.](#orged15cb2)
-        3.  [3. Comportamiento esperado](#org9df9777)
-        4.  [4. Comportamientos inaceptables](#orge157898)
-        5.  [5. Consecuencias de comportamiento inaceptable](#org7c2f09d)
-        6.  [Si usted es testigo de comportamiento inaceptable](#org73ef0d6)
-        7.  [Políticas de moderación](#org5590fe0)
-        8.  [Roles](#orgbd12376)
-        9.  [Licencia y atribución](#org453f459)
+1.  [Codigo de Coducta](#org09521f5)
+        1.  [1. Propósito](#orgc03735a)
+        2.  [2. Civismo en el Club.](#org1936ea5)
+        3.  [3. Comportamiento esperado](#org3450b33)
+        4.  [4. Comportamientos inaceptables](#orgec244fc)
+        5.  [5. Consecuencias de comportamiento inaceptable](#org2d1671a)
+        6.  [6. Si usted es testigo de comportamiento inaceptable](#org2a68769)
+        7.  [7. Políticas de moderación](#org5743de6)
+        8.  [8. Roles](#orga06e7af)
+        9.  [9. Licencia y atribución](#org032e26b)
 
 
-<a id="org2f8d627"></a>
+<a id="org09521f5"></a>
 
 # Codigo de Coducta
 
 
-<a id="org37b5e4d"></a>
+<a id="orgc03735a"></a>
 
 ### 1. Propósito
 
@@ -27,7 +27,7 @@ Este código de conducta resume nuestras expectativas para los miembros de la co
 Invitamos a todos y todas que apoyen este código de conducta pues creemos que puede contribuir al crecimiento de todas las personas que hacen parte, y que buscan compartir o aprender temas relacionados a los ya descritos.
 
 
-<a id="orged15cb2"></a>
+<a id="org1936ea5"></a>
 
 ### 2. Civismo en el Club.
 
@@ -35,7 +35,7 @@ Otro objetivo de este Código de Conducta es explicar de manera concreta lo que 
 Si tienen ideas de cómo podemos mejorar la convivencia, los recursos y el aprendizaje del grupo, están completamente bienvenidos y bienvenidas a decirlo a los administradores que tomarán pronta consideración de las sugerencias e ideas.
 
 
-<a id="org9df9777"></a>
+<a id="org3450b33"></a>
 
 ### 3. Comportamiento esperado
 
@@ -52,7 +52,7 @@ Si tienen ideas de cómo podemos mejorar la convivencia, los recursos y el apren
 6.  Intenta apoyar el crecimiento de todos y cada uno de los miembros del Club de Algorítmia.
 
 
-<a id="orge157898"></a>
+<a id="orgec244fc"></a>
 
 ### 4. Comportamientos inaceptables
 
@@ -60,7 +60,7 @@ Comportamientos inaceptables incluyen: intimidación, acoso, abuso, discriminaci
 El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos relacionados con el género, la orientación sexual, raza, religión, discapacidad, estatus social, nacionalidad; uso inadecuado de desnudos y / o imágenes sexuales en espacios de comunicación, intimidación deliberada, acecho o seguimiento; fotografías o grabaciones acosadoras; interrupción sostenida de charlas y otros eventos; contacto inapropiado, y atención sexual no deseada.
 
 
-<a id="org7c2f09d"></a>
+<a id="org2d1671a"></a>
 
 ### 5. Consecuencias de comportamiento inaceptable
 
@@ -71,16 +71,16 @@ El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos relac
 3.  Si un miembro de la comunidad participa en una conducta inaceptable, y tras un llamado de atención no corrige su comportamiento, las consecuencias dependiendo el caso pueden ser de prohibición temporal o expulsión permanente del espacio de aprendizaje.
 
 
-<a id="org73ef0d6"></a>
+<a id="org2a68769"></a>
 
-### Si usted es testigo de comportamiento inaceptable
+### 6. Si usted es testigo de comportamiento inaceptable
 
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier inquietud, por favor comunícate con un lider de la comunidad lo antes posible, a través de los canales del Discord.
 
 
-<a id="org5590fe0"></a>
+<a id="org5743de6"></a>
 
-### Políticas de moderación
+### 7. Políticas de moderación
 
 Estas son las políticas para mantener los estándares de conducta en nuestra comunidad en los canales de chat, meetups asociados, conferencias, grupos de estudio, y eventos virtuales:
 
@@ -94,9 +94,9 @@ Estas son las políticas para mantener los estándares de conducta en nuestra co
 -   Los líderes y moderadores se rigen por un nivel más alto que otros miembros de la comunidad. Si un organizador crea una situación inadecuada, este será juzgado con un estándar más alto.
 
 
-<a id="orgbd12376"></a>
+<a id="orga06e7af"></a>
 
-### Roles
+### 8. Roles
 
 Los líderes en el Discord son aquellos que tengan rol @Admin o @lideres. A ellos pueden dirigir inquietudes, sugerencias y reclamos.
 
@@ -107,9 +107,9 @@ De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo
 Todo el mundo busca harmonía en este espacio que está hecho para el aprendizaje y la generación de conocimiento. Todos y todas estamos aquí, ante todo, porque queremos hablar de los temas que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre.
 
 
-<a id="org453f459"></a>
+<a id="org032e26b"></a>
 
-### Licencia y atribución
+### 9. Licencia y atribución
 
 1.  Este código de conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
 
