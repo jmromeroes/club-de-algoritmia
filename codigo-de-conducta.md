@@ -102,7 +102,7 @@ Los líderes en el Discord son aquellos que tengan rol @Admin o @lideres. A ello
 
 En el Club de Algorítmia nos esforzamos por ir un paso más allá y cuidar el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate también de ser la mejor persona posible. En particular, evite tocar temas ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a menudo conduce a peleas innecesarias, sentimientos heridos, y a daños en la confianza; peor aún, puede conducir a que personas se alejen de la comunidad en su totalidad.
 
-De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo, resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo que fuera que causó la queja y pida disculpas. Hay buenas probabilidades de que usted se pudo haber comunicado mejor, incluso si usted siente que fue malinterpretado o injustamente acusado, - recuerde que es su responsabilidad hacer que sus compañeras y compañeros de colombia.dev estén cómodos.
+De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo, resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo que fuera que causó la queja y pida disculpas. Hay buenas probabilidades de que usted se pudo haber comunicado mejor, incluso si usted siente que fue malinterpretado o injustamente acusado, - recuerde que es su responsabilidad hacer que sus compañeras y compañeros del Club estén cómodos.
 
 Todo el mundo busca harmonía en este espacio que está hecho para el aprendizaje y la generación de conocimiento. Todos y todas estamos aquí, ante todo, porque queremos hablar de los temas que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre.
 
